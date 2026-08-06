@@ -1,4 +1,4 @@
-# Sahil Mehta
+# Sahil Mehta 
 
 **AI / Full-Stack Engineer at Enidus · NYC — open to relocation**
 

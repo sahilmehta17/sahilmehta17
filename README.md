@@ -1,6 +1,6 @@
 # Sahil Mehta 
 
-**AI / Full-Stack Engineer at Enidus · NYC — open to relocation**
+**AI / Full-Stack Engineer at Enidus · NYC — open to relocation** 
 
 I build production LLM systems: agentic copilots, RAG, and the eval harnesses that keep them
 honest. B.S. Computer Science + B.S. Data Science, UW–Madison 2025. 

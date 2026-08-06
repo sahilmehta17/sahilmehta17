@@ -3,7 +3,7 @@
 **AI / Full-Stack Engineer at Enidus · NYC — open to relocation**
 
 I build production LLM systems: agentic copilots, RAG, and the eval harnesses that keep them
-honest. B.S. Computer Science + B.S. Data Science, UW–Madison 2025.
+honest. B.S. Computer Science + B.S. Data Science, UW–Madison 2025. 
 
 My bias is that an agent claim isn't real until there's a number behind it and a test that can
 fail.

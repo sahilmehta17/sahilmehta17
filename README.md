@@ -83,8 +83,8 @@ React 19, Claude Sonnet streamed over SSE, cosine similarity in plain JavaScript
 embeddings file (no vector DB; at ~50 chunks the network hop costs more than it saves).
 
 Every answer carries inline citations back to the source chunk with its similarity score. There's
-a public **`/evals`** page showing the grading run for every question in the suite — including the
-ones it fails.
+a public **[`/evals`](https://sahilmehta.dev/evals)** page showing the grading run for every
+question in the suite — including the ones it fails.
 
 ---
 
